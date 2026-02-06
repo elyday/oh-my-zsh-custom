@@ -1,15 +1,9 @@
 [submodule "plugins/zsh-autosuggestions"]
 	path = plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
-[submodule "plugins/zsh-exa"]
-	path = plugins/zsh-exa
-	url = https://github.com/z-shell/zsh-exa
 [submodule "plugins/zsh-ssh"]
 	path = plugins/zsh-ssh
 	url = https://github.com/sunlei/zsh-ssh
 [submodule "plugins/zsh-syntax-highlighting"]
 	path = plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
-[submodule "themes/powerlevel10k"]
-	path = themes/powerlevel10k
-	url = https://github.com/romkatv/powerlevel10k.git
