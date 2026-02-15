@@ -10,6 +10,8 @@ In order to use this Oh My Zsh custom folder first you need to clone this repo t
 git clone --recurse-submodules https://github.com/elyday/oh-my-zsh-custom.git ~/.oh-my-zsh-custom
 ```
 
+You also need to install with `brew install eza`.
+
 After that you need to put these lines into your `.zshrc` file:
 
 ```bash
@@ -22,16 +24,17 @@ If any of these lines already exists in your `.zshrc` file then override it with
 
 Then you are good to go.
 
+## Alias
+
+coming soon...
+
 ## Used Plugins
 
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-- [zsh-exa](https://github.com/z-shell/zsh-exa)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [zsh-ssh](https://github.com/sunlei/zsh-ssh)
 
 ## Used themes
-
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ## Disclaimer
 
